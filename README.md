@@ -91,9 +91,6 @@ Please refer to [Original Code ](https://github.com/dvlab-research/3DSSD) or dow
 │   my_val_Kitti.py  #配置和启动验证
 │   valer_Kitti.py  
 │   single_stage_detector.py  #网络模型
-
-
-
 ```
 
 <br/>
