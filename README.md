@@ -46,8 +46,7 @@ tensorflow is necessary for evaluation. and make pointnet++ follow as:
 
 ### 2. Dataset
 
-Please refer to [Original Code ](https://github.com/dvlab-research/3DSSD) or our baiduyunlink.
-
+Please refer to [Original Code ](https://github.com/dvlab-research/3DSSD) or download frome above baiduyunlink.
 
 
 ```
@@ -106,7 +105,6 @@ run
 
 ```bash
 python my_train_Kitti.py
- 
 ```
 
 Parameters like batch_size,  lr, etc  could be changed in config.py.
@@ -120,7 +118,6 @@ run
 
 ```bash
 python my_val_Kitti.py
- 
 ```
 
 <br/>
