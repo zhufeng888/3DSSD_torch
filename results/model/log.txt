@@ -1,0 +1,25 @@
+2021-08-29 14:32:41,283 - root - DEBUG - Data Preparation
+2021-08-29 14:32:41,283 - root - DEBUG - ****************
+2021-08-29 14:32:41,294 - root - DEBUG - Snapshot Preparation
+2021-08-29 14:32:41,294 - root - DEBUG - ****************
+2021-08-29 14:32:41,294 - root - DEBUG - Model Preparation
+2021-08-29 14:32:41,294 - root - DEBUG - *****************
+2021-08-29 14:32:41,338 - root - DEBUG - Start training
+2021-08-29 14:32:41,339 - root - DEBUG - **************
+2021-08-29 14:32:43,109 - root - DEBUG - Load model successfully: results/model/checkpoint/model.pkl
+2021-08-29 14:32:43,109 - root - DEBUG - *************** Start Evaluation *****************
+2021-08-29 14:37:10,736 - root - DEBUG - precision_image:
+2021-08-29 14:37:10,737 - root - DEBUG - [[ 0.9635466   0.93081504  0.9241562 ]
+ [-1.         -1.         -1.        ]
+ [-1.         -1.         -1.        ]]
+2021-08-29 14:37:10,737 - root - DEBUG - precision_ground:
+2021-08-29 14:37:10,737 - root - DEBUG - [[ 0.928524    0.8910494   0.86533344]
+ [-1.         -1.         -1.        ]
+ [-1.         -1.         -1.        ]]
+2021-08-29 14:37:10,737 - root - DEBUG - precision_3d:
+2021-08-29 14:37:10,738 - root - DEBUG - [[ 0.9089438  0.8225948  0.7959043]
+ [-1.        -1.        -1.       ]
+ [-1.        -1.        -1.       ]]
+2021-08-29 14:37:10,738 - root - DEBUG - None
+2021-08-29 14:37:10,738 - root - DEBUG - ****************Evaluation done.*****************
+2021-08-29 14:37:10,739 - root - DEBUG - Forcing exit now
